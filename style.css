@@ -58,3 +58,16 @@ footer {
   padding: 5px;
   width: 100%;
 }
+#logo {
+  height: 30px;
+  width: 90px;
+  background: url(logo.png);
+  background-size: 90px 30px;
+  background-repeat: no-repeat;
+  background-color: #fff;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  border: solid 10px #fff;
+  margin: auto;
+}
